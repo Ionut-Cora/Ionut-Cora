@@ -23,7 +23,7 @@ Front End Web Developer passionate about Web Development and Web Design, HTML, C
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Ionut-Cora"><img src="https://github-readme-stats.vercel.app/api?username=Ionut-Cora&show_icons=true&hide=prs,issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Ionut-Cora's GitHub stats" /></a>
+<a href="http://www.github.com/Ionut-Cora"><img src="https://github-readme-stats.vercel.app/api?username=Ionut-Cora&show_icons=true&hide=issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Ionut-Cora's GitHub stats" /></a>
 
 <a href="http://www.github.com/Ionut-Cora"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ionut-Cora&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
@@ -31,11 +31,11 @@ Front End Web Developer passionate about Web Development and Web Design, HTML, C
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Ionut-Cora/react-restaurant" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ionut-Cora&repo=react-restaurant&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Ionut-Cora/bmi-calculator" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ionut-Cora&repo=bmi-calculator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/Ionut-Cora/react-estate-agency" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ionut-Cora&repo=react-estate-agency&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Ionut-Cora/react-restaurant" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ionut-Cora&repo=react-restaurant&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br />
 
 <br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/Ionut-Cora/bmr-calculator.github.io" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ionut-Cora&repo=bmr-calculator.github.io&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Ionut-Cora/react-estate-agency" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ionut-Cora&repo=react-estate-agency&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/Ionut-Cora/bmr-calculator.github.io" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ionut-Cora&repo=bmr-calculator.github.io&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Ionut-Cora/recipes-app.github.io" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ionut-Cora&repo=recipes-app.github.io&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
 <!--
 **Ionut-Cora/Ionut-Cora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
