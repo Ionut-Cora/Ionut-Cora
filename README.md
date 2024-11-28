@@ -8,7 +8,7 @@ Front End Web Developer
 
 Front End Web Developer passionate about Web Development and Web Design, HTML, CSS, JavaScript, React JS, Bootstrap 5, Sass, Material UI and more.
 
-* 🌍  I'm based in London, UK
+* 🌍  I'm based in London, England, United Kingdom
 * 🖥️  See my portfolio at [ionutcora.com](http://www.ionutcora.com/)
 * ✉️  You can contact me at [ionutcora.webdeveloper@yahoo.com](mailto:ionutcora.webdeveloper@yahoo.com)
 
