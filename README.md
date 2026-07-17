@@ -1,4 +1,4 @@
-Ionut Cora - Front End Web Developer
+Ionut Cora | Front-End Developer
 ===========================
 
 My name is Ionut Cora and I am a Professional Frontend Web Developer from London, United Kingdom, with several years of experience creating accessible and responsive websites. I also have experience working in a digital agency environment, specializing in website development with HTML, CSS, and JavaScript and I am qualified as a Front-End Web Developer with a NCFE Level 3 Certificate in Web Design.
@@ -18,5 +18,3 @@ Always motivated and well organized, with a positive attitude, I can work indepe
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Ionut-Cora" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ionut-Cora/assets/fdb0288ef521decff0355ecbf03602b8b8c69df0/readme%20images/github.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/Ionut-Cora/assets/fdb0288ef521decff0355ecbf03602b8b8c69df0/readme%20images/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ionut-cora-33a250159/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ionut-Cora/assets/fdb0288ef521decff0355ecbf03602b8b8c69df0/readme%20images/linkedin.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/Ionut-Cora/assets/fdb0288ef521decff0355ecbf03602b8b8c69df0/readme%20images/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-<a href="https://github.com/Ionut-Cora" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ionut-Cora&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
