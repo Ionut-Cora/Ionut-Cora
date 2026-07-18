@@ -1,11 +1,11 @@
 Ionut Cora | Front-End Developer
 ===========================
 
-My name is Ionut Cora and I am a Professional Frontend Web Developer from London, United Kingdom, with several years of experience creating accessible and responsive websites. I also have experience working in a digital agency environment, specializing in website development with HTML, CSS, and JavaScript and I am qualified as a Front-End Web Developer with a NCFE Level 3 Certificate in Web Design.
+My name is Ionut Cora and I am a Professional Frontend Web Developer from London, UK, with several years of experience creating accessible and responsive websites. I also have experience working in a digital agency environment, specializing in website development with HTML, CSS, and JavaScript and I am qualified as a Front-End Web Developer with a NCFE Level 3 Certificate in Web Design.
 
 Always motivated and well organized, with a positive attitude, I can work independently or as part of a team. I am very dedicated and hardworking, able to manage with busy periods and I am always eager to learn new skills with a strong desire for continuous learning and improvement.
 
-* 🌍  I'm based in London, England, United Kingdom
+* 🌍  I'm based in London, United Kingdom
 * 🖥️  See my portfolio at [ionutcora.com](http://www.ionutcora.com/)
 * ✉️  You can contact me at [ionutcora.webdeveloper@yahoo.com](mailto:ionutcora.webdeveloper@yahoo.com)
 
